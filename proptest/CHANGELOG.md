@@ -13,7 +13,7 @@
   coverage, visualisation) work with `proptest!`, `#[property_test]` and
   `prop_state_machine!` alike. Requires `std`; the default `None` changes
   nothing.
-  ([\#666](https://github.com/proptest-rs/proptest/issues/666))
+  ([\#678](https://github.com/proptest-rs/proptest/pull/678))
 
 ## 1.12.0
 
